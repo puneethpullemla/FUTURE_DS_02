@@ -80,7 +80,7 @@ Regional breakdown:
 ## 🎥 Demo Video
 
 ▶️ Watch my dashboard walkthrough here:  
-[🔗 ]
+[🔗 https://www.linkedin.com/feed/update/urn:li:activity:7357497683311292417/ ]
 
 ---
 
@@ -88,7 +88,8 @@ Regional breakdown:
 
 | Dashboard Preview |
 |-------------------|
-<>
+<<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/5c6261fc-e557-40bc-948d-227cf907132f" />
+>
 
 ---
 
